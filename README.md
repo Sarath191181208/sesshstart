@@ -6,6 +6,8 @@ This tool scans the `~/Project` folder for subprojects and facilitates starting 
 
 The **Sesshstart** is designed to streamline the process of navigating through multiple subprojects within the `~/Project` directory and quickly initiating sessions for each project using a unified script.
 
+![DemoImage](./images/screenshots/screenshot.png)
+
 ### Features
 
 - **Automatic Detection:** Scans the `~/Project` directory for subprojects.
